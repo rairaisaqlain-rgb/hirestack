@@ -1,21 +1,36 @@
+<div align="center">
+
 # HireStack
 
-ATS-ready resume kit for the US job market.
+### ATS-ready kit for the US job market
 
-**Offer:** $19 Starter / $39 Pro — templates + cover letters + job tracker.
-**Buyer:** mid-level US applicants filtered by ATS.
+**Templates · letters · tracker · checklist**
 
-## Repo map
+[Download ZIP](https://pannki.com/hirestack.zip) · [Landing](./apps/web/index.html) · [Offer](./docs/OFFER.md)
 
-- `apps/web` — landing page
-- `apps/checker` — keyword/ATS checklist (program)
-- `content/templates` — resume section maps
-- `docs/OFFER.md` — pricing and MVP scope
+<img src="https://img.shields.io/badge/founders-free_kit-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/not-a_hiring_guarantee-lightgrey?style=for-the-badge" />
 
-## Run locally
+</div>
 
-Open `apps/web/index.html` in a browser.
+---
 
-## Status
+## Overview
 
-Scaffold. Not a hiring guarantee.
+HireStack is a job-application kit, not a placement agency. The zip is the product. Founders download is free. Later paid work is template updates, not a subscription for the same files.
+
+---
+
+## Download
+
+| Package | Link |
+| --- | --- |
+| Windows build | [https://pannki.com/hirestack.zip](https://pannki.com/hirestack.zip) |
+
+---
+
+## Disclaimer
+
+> Not a hiring guarantee. ATS rules differ by vendor. Do not submit fabricated employment history.
+
+*HireStack — KERNELX lab*
