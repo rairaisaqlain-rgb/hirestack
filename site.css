@@ -1,14 +1,4 @@
-html,body{margin:0;background:#f3efe6;color:#1a1714;font-family:Source Sans 3,system-ui,sans-serif}
-.nav{display:flex;justify-content:space-between;align-items:center;padding:20px 7vw;position:sticky;top:0;background:#f3efe6f0}
-.logo{color:inherit;text-decoration:none;font-weight:700}
-.nav-cta{border:1px solid #1f4f3a;padding:8px 12px;text-decoration:none;color:#1f4f3a}
-.hero{padding:12vh 7vw 6vh;max-width:900px}
-.eyebrow{letter-spacing:.14em;text-transform:uppercase;font-size:12px;color:#1f4f3a}
-h1{font-family:Fraunces,Georgia,serif;font-size:clamp(40px,6.5vw,74px);line-height:1.02;font-weight:600}
-.lede{font-size:20px;color:#5c574e;max-width:540px}
-.btn-primary{display:inline-block;margin-top:24px;background:#1f4f3a;color:#fff;text-decoration:none;padding:16px 22px;font-weight:700}
-.hint{color:#8a8378;font-size:13px}
-.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;padding:0 7vw 10vh}
-.card{background:#fff;padding:22px;border:1px solid #e4ddd0}
-footer{padding:28px 7vw 48px;border-top:1px solid #e4ddd0;color:#5c574e}
-footer a{color:#5c574e}
+body{margin:0;background:#07140e;color:#e8eee4;font-family:system-ui,sans-serif;text-align:center}
+.navline{padding:16px}.banner{width:min(1100px,94vw);border:1px solid #3d6b4a}
+.hero{padding:24px 16px 64px}.btn-primary{display:inline-block;margin-top:16px;background:#1f4f3a;color:#fff;text-decoration:none;padding:14px 22px;font-weight:700}
+a{color:#9cbfa4}
