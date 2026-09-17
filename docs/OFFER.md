@@ -1,8 +1,4 @@
-# Offer
+# HireStack offer
 
-| Plan | Price | Includes |
-|---|---|---|
-| Starter | $19 | 3 templates + 4 letters |
-| Pro | $39 | All templates + tracker + ATS guide |
-
-MVP does not include a logged-in AI rewriter.
+Download: http://pannki.com/hirestack.zip
+Founders: free 180 days. After that, paid template updates only.
