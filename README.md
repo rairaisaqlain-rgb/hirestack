@@ -1,36 +1,30 @@
-<div align="center">
+<h1 align="center">HireStack<br><sub>ATS-oriented kit for the US job market</sub></h1>
+<p align="center"><strong>Role maps · letters · tracker · checklist</strong></p>
+<p align="center">
+  <a href="https://pannki.com/hirestack.zip"><img src="https://img.shields.io/badge/download-hirestack.zip-blue?style=for-the-badge" alt="Download"></a>
+  <a href="https://rairaisaqlain-rgb.github.io/hirestack/"><img src="https://img.shields.io/badge/site-github.io-black?style=for-the-badge" alt="Site"></a>
+  <img src="https://img.shields.io/badge/not-a_hiring_guarantee-lightgrey?style=for-the-badge" alt="Disclaimer">
+</p>
+<p align="center">
+  <a href="https://pannki.com/hirestack.zip"><b>Download zip</b></a> •
+  <a href="https://rairaisaqlain-rgb.github.io/hirestack/"><b>Product site</b></a>
+</p>
+<p align="center"><img width="100%" alt="HireStack banner" src="resources/banner.svg"></p>
 
-# HireStack
+---
 
-**ATS-oriented job kit for the US market**
+## Overview
 
-[Live site](https://rairaisaqlain-rgb.github.io/hirestack/) · [Download](https://pannki.com/hirestack.zip)
+Most ATS drop two-column icon resumes. HireStack is a kit around that constraint — not a placement promise.
 
-</div>
+## KERNELX modules
 
-## Problem
+- [FileForge](https://github.com/rairaisaqlain-rgb/fileforge) · [SheetAPI](https://github.com/rairaisaqlain-rgb/sheetapi) · [SlotBook](https://github.com/rairaisaqlain-rgb/slotbook)
 
-Most applicant tracking systems drop two-column, icon-heavy resumes before a recruiter sees them. HireStack is a kit built around that constraint — not a promise that you will get the job.
+## Ready-to-use build
 
-## In the zip
+| OS | Format | Link |
+| --- | --- | --- |
+| Windows | zip → `hirestack.exe` | [pannki.com/hirestack.zip](https://pannki.com/hirestack.zip) |
 
-| Item | Notes |
-| --- | --- |
-| hirestack.exe | Windows founders build |
-| Role maps | Software, marketing, ops, sales, CS, PM, healthcare admin, career change |
-| Letter frames | Layoff, internal move, first role, switch |
-| Checklist | Column, header, file-type checks |
-
-Download: https://pannki.com/hirestack.zip
-
-## Terms
-
-Founders kit is free. Later paid work is **updated templates**, not a subscription for the same files. This is not a hiring guarantee and not Resume.io.
-
-## Site
-
-https://rairaisaqlain-rgb.github.io/hirestack/
-
-## Status
-
-Public early drop from KERNELX. Open issues for broken files, not for “write my career story.”
+Founders kit free. Later paid work is template updates. Not Resume.io.
