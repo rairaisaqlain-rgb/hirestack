@@ -2,35 +2,35 @@
 
 # HireStack
 
-### ATS-ready kit for the US job market
+**ATS-oriented job kit for the US market**
 
-**Templates · letters · tracker · checklist**
-
-[Download ZIP](https://pannki.com/hirestack.zip) · [Landing](./apps/web/index.html) · [Offer](./docs/OFFER.md)
-
-<img src="https://img.shields.io/badge/founders-free_kit-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/not-a_hiring_guarantee-lightgrey?style=for-the-badge" />
+[Live site](https://rairaisaqlain-rgb.github.io/hirestack/) · [Download](https://pannki.com/hirestack.zip)
 
 </div>
 
----
+## Problem
 
-## Overview
+Most applicant tracking systems drop two-column, icon-heavy resumes before a recruiter sees them. HireStack is a kit built around that constraint — not a promise that you will get the job.
 
-HireStack is a job-application kit, not a placement agency. The zip is the product. Founders download is free. Later paid work is template updates, not a subscription for the same files.
+## In the zip
 
----
-
-## Download
-
-| Package | Link |
+| Item | Notes |
 | --- | --- |
-| Windows build | [https://pannki.com/hirestack.zip](https://pannki.com/hirestack.zip) |
+| hirestack.exe | Windows founders build |
+| Role maps | Software, marketing, ops, sales, CS, PM, healthcare admin, career change |
+| Letter frames | Layoff, internal move, first role, switch |
+| Checklist | Column, header, file-type checks |
 
----
+Download: https://pannki.com/hirestack.zip
 
-## Disclaimer
+## Terms
 
-> Not a hiring guarantee. ATS rules differ by vendor. Do not submit fabricated employment history.
+Founders kit is free. Later paid work is **updated templates**, not a subscription for the same files. This is not a hiring guarantee and not Resume.io.
 
-*HireStack — KERNELX lab*
+## Site
+
+https://rairaisaqlain-rgb.github.io/hirestack/
+
+## Status
+
+Public early drop from KERNELX. Open issues for broken files, not for “write my career story.”
